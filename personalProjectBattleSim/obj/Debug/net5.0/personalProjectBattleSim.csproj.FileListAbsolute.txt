@@ -1,0 +1,16 @@
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\personalProjectBattleSim.exe
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\personalProjectBattleSim.deps.json
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\personalProjectBattleSim.runtimeconfig.json
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\personalProjectBattleSim.runtimeconfig.dev.json
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\personalProjectBattleSim.dll
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\ref\personalProjectBattleSim.dll
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\bin\Debug\net5.0\personalProjectBattleSim.pdb
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.csproj.AssemblyReference.cache
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.AssemblyInfoInputs.cache
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.AssemblyInfo.cs
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.csproj.CoreCompileInputs.cache
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.dll
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\ref\personalProjectBattleSim.dll
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.pdb
+D:\coding projects\personalProjectBattleSim\personalProjectBattleSim\obj\Debug\net5.0\personalProjectBattleSim.genruntimeconfig.cache
